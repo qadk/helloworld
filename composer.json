@@ -1,0 +1,17 @@
+{
+    "name": "qadk/helloworld",
+    "description": "just say 'hello world'",
+    "authors": [
+        {
+            "name": "yuhui",
+            "email": "qadk211062@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Qadk\\HelloWorld\\": "src/"
+        }
+    }
+}
